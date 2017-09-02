@@ -1,5 +1,5 @@
-## Science Fiction | Robotics | Robot-personification 
-MOVIE                                                                                        | GENRE                     | YEAR | RATING |
+# Science Fiction | Robotics | Robot-personification 
+MOVIE                                                                                        | GENRE                     | YEAR | RATING | 
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [The Matrix](http://www.imdb.com/title/tt0133093/)                                         | Fantasy/Action            | 1999 | 8.7/10 |
 | [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 |
@@ -8,7 +8,6 @@ MOVIE                                                                           
 | [eXistenZ](http://www.imdb.com/title/tt0120907/)                                           | Science Fiction/Thriller  | 1999 | 6.8/10 |
 | [One Point O](http://www.imdb.com/title/tt0317042/)                                        | Mystery/Science fiction   | 2004 | 6.2/10 |
 | [Inception](http://www.imdb.com/title/tt1375666/)                                          | Mystery/Science fiction   | 2010 | 8.8/10 |
-| [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8/10   |
 | [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science Fiction/Thriller  | 1982 | 8.2/10 |
 | [Her](http://www.imdb.com/title/tt1798709/)                                                | Science Fiction/Romance   | 2013 | 8.0/10 |
@@ -17,3 +16,14 @@ MOVIE                                                                           
 | [Johnny Mnemonic](http://www.imdb.com/title/tt0113481/)                                    | Science fiction/Action    | 1995 | 5.6/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt1219827/)                                 | Science fiction/Action    | 2017 | 6.9/10 |
 | [Morgan](http://www.imdb.com/title/tt4520364/)                                             | Science Fiction/Thriller  | 2016 | 5.8/10 |
+
+## Animation
+                                                                                        | GENRE                     | YEAR | RATING | 
+|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [Texhnolyze](https://myanimelist.net/anime/26/Texhnolyze?q=tex)         |  Action, Sci-Fi, Psychological, Drama        | 2003 | 7.78/10 |
+| [Ergo Proxy](https://myanimelist.net/anime/790/Ergo_Proxy)              | Mystery, Psychological            | 2006 | 8.01/10 |
+| [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)              | Fantasy         | 1995 | 8.0/10 |
+| [Akira](https://myanimelist.net/anime/47/Akira)                 | Action, Military, Adventure, Horror, Supernatural| 1985 |  8.15/10 | 
+| [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)    | Action, Adventure, Comedy, Drama, Space | 1998~1999 | 8.81/10 |
+| [Serial Experiment Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)   | Dementia, Drama, Mystery, Psychological, Supernatural| 1998 | 7.99/10 |
+| [Darker than Black](https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha) | Action, Mystery, Super Power| 2007 | 8.23/10|
