@@ -18,7 +18,7 @@ MOVIE                                                                           
 | [Morgan](http://www.imdb.com/title/tt4520364/)                                             | Science Fiction/Thriller  | 2016 | 5.8/10 |
 
 ## Animation
-                                                                                        | GENRE                     | YEAR | RATING | 
+| Anime                                                                                    | GENRE                     | YEAR |RATING | 
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [Texhnolyze](https://myanimelist.net/anime/26/Texhnolyze?q=tex)         |  Action, Sci-Fi, Psychological, Drama        | 2003 | 7.78/10 |
 | [Ergo Proxy](https://myanimelist.net/anime/790/Ergo_Proxy)              | Mystery, Psychological            | 2006 | 8.01/10 |
