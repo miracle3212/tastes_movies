@@ -15,7 +15,8 @@ MOVIE                                                                           
 | [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 |
 | [Johnny Mnemonic](http://www.imdb.com/title/tt0113481/)                                    | Science fiction/Action    | 1995 | 5.6/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt1219827/)                                 | Science fiction/Action    | 2017 | 6.9/10 |
-| [Morgan](http://www.imdb.com/title/tt4520364/)                                             | Science Fiction/Thriller  | 2016 | 5.8/10 |
+| [I,Robot](http://www.imdb.com/title/tt0343818/)                                            | Action, Crime, Drama      | 2004 | 7.1/10 |
+| [AEON_FLUX](http://www.imdb.com/title/tt0402022)                                           | Action, Scifi             | 2005 | 5.5/10 | 
 
 ## Animation
 | Anime                                                                                    | GENRE                     | YEAR |RATING | 
@@ -27,3 +28,4 @@ MOVIE                                                                           
 | [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)    | Action, Adventure, Comedy, Drama, Space | 1998~1999 | 8.81/10 |
 | [Serial Experiment Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)   | Dementia, Drama, Mystery, Psychological, Supernatural| 1998 | 7.99/10 |
 | [Darker than Black](https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha) | Action, Mystery, Super Power| 2007 | 8.23/10|
+| [Steins:Gate](https://myanimelist.net/anime/9253/Steins_Gate)  | Time Loop, Thriller | 2011 | 9.15/10 | 
