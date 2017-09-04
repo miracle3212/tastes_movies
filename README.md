@@ -31,5 +31,5 @@ MOVIE                                                                           
 | [Steins:Gate](https://myanimelist.net/anime/9253/Steins_Gate)  | Time Loop, Thriller | 2011 | 9.15/10 | 
 
 ## TV Series
-|       Series                                                                 | GENRE       | YEAR | RATING
-| [What Happened to Monday](http://www.imdb.com/title/tt1536537/)             | Action, Crime, Neo Future | 6.9(?)
+|       Series                                                                 | GENRE       | YEAR | RATING |
+| [What Happened to Monday](http://www.imdb.com/title/tt1536537/)             | Action, Crime, Neo Future | 6.9(?) |
