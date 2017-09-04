@@ -29,3 +29,7 @@ MOVIE                                                                           
 | [Serial Experiment Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)   | Dementia, Drama, Mystery, Psychological, Supernatural| 1998 | 7.99/10 |
 | [Darker than Black](https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha) | Action, Mystery, Super Power| 2007 | 8.23/10|
 | [Steins:Gate](https://myanimelist.net/anime/9253/Steins_Gate)  | Time Loop, Thriller | 2011 | 9.15/10 | 
+
+## TV Series
+|       Series                                                                 | GENRE       | YEAR | RATING
+| [What Happened to Monday](http://www.imdb.com/title/tt1536537/)             | Action, Crime, Neo Future | 6.9(?)
