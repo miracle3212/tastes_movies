@@ -21,12 +21,12 @@ MOVIE                                                                           
 | [Westworld](http://www.imdb.com/title/tt0475784)                                           | Drama/Mystery/Sci-fi      | 2016 | 8.9/10 |
 
 ## Animation
-| Anime                                                                                    | GENRE                     | YEAR |RATING | 
+| Anime                                                                                      | GENRE                     | YEAR |RATING | 
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [Texhnolyze](https://myanimelist.net/anime/26/Texhnolyze?q=tex)         |  Action, Sci-Fi, Psychological, Drama        | 2003 | 7.78/10 |
 | [Ergo Proxy](https://myanimelist.net/anime/790/Ergo_Proxy)              | Mystery, Psychological            | 2006 | 8.01/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)              | Fantasy         | 1995 | 8.0/10 |
-| [Akira](https://myanimelist.net/anime/47/Akira)                 | Action, Military, Adventure, Horror, Supernatural| 1985 |  8.15/10 | 
+| [Akira](https://myanimelist.net/anime/47/Akira)                         | Action, Military, Adventure, Horror, Supernatural| 1985 |  8.15/10 | 
 | [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)    | Action, Adventure, Comedy, Drama, Space | 1998~1999 | 8.81/10 |
 | [Serial Experiment Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)   | Dementia, Drama, Mystery, Psychological, Supernatural| 1998 | 7.99/10 |
 | [Darker than Black](https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha) | Action, Mystery, Super Power| 2007 | 8.23/10|
@@ -34,7 +34,9 @@ MOVIE                                                                           
 | [Eve no Jikan](http://www.imdb.com/title/tt1715210)            | Romance, Scifi      | 2010 | 7.5/10  |
 
 ## TV Series
-| Series                                                               | GENRE                     | YEAR | RATING |
-|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [What Happened to Monday](http://www.imdb.com/title/tt1536537/)      | Action, Crime, Neo Future | 2017 | 6.9(?) |
-| [Altered Carbon](http://www.imdb.com/title/tt2261227)                | Drama, Sci-fi, Thriller   | 2018 | 8.5/10 | 
+| Series                                                               | GENRE                         | YEAR | RATING |
+|----------------------------------------------------------------------|-------------------------------|------|--------|
+| [What Happened to Monday](http://www.imdb.com/title/tt1536537)       | Action, Crime, Neo Future     | 2017 | 6.9/10 |
+| [Altered Carbon](http://www.imdb.com/title/tt2261227)                | Drama, Sci-fi, Thriller       | 2018 | 8.5/10 | 
+| [Black Mirror](https://www.imdb.com/title/tt2085059)                 | Drama, Sci-fi, Thriller       | 2011 | 8.9/10 | 
+| [Lost in Space](https://www.imdb.com/title/tt5232792)                | Adventure, Sci-fi, Drama      | 2018 | 7.3/10 | 
